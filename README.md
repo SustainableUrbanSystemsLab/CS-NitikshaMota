@@ -6,6 +6,7 @@
 
 **Independent Study – M.S. Urban Design**  
 **Author:** Nitiksha Mota  - [LinkedIn](https://www.linkedin.com/in/nitiksha-mota/)
+
 **Institution:** Georgia Institute of Technology  
 **Advisors:** Prof. Brian Stone, Prof. Patrick Kastner  
 
