@@ -1,0 +1,62 @@
+# Independent Study – MS Urban Design (Spring 2025)
+
+**Student:** Shaiba Bano Siddiqui  
+**Program:** MS Urban Design, Georgia Institute of Technology  
+**Faculty Advisor:** Patrick Kastner  
+**Secondary Advisor:** Rounaq Basu  
+
+---
+
+## Research Title
+**Equitable Street Tree Canopy Design for Heat Mitigation in Low-Income Neighborhoods:  
+A Microclimate Study of Joseph E. Boone Blvd, Atlanta**
+
+---
+
+## Abstract
+This independent study investigates how the spatial configuration of street-tree canopy—
+including spacing, side placement, and alternating patterns—can reduce pedestrian and transit
+heat exposure in low-income neighborhoods. Using Joseph E. Boone Boulevard in Atlanta as a
+case study, the research combines GIS-based heat vulnerability mapping with Outdoor+ microclimate
+simulations to evaluate thermal performance under different tree-planting scenarios. The study
+aims to inform equitable, corridor-scale urban forestry strategies that mitigate heat without
+accelerating displacement pressures.
+
+---
+
+## Methods
+- GIS analysis of heat vulnerability, canopy cover, and socio-economic indicators
+- Corridor-scale modeling of Joseph E. Boone Blvd
+- Outdoor+ (BlueCFD) simulations for morning and afternoon summer conditions
+- Comparative testing of:
+  - Evenly spaced trees on both sides
+  - Alternating tree configurations
+  - Clustered vs continuous canopy strategies
+
+---
+
+## Key Findings
+- Alternating tree configurations can maintain thermal comfort while reducing planting density
+- Dual-sided canopy placement offers more consistent pedestrian shading
+- Strategic spacing improves Mean Radiant Temperature (MRT) reduction at bus stops and sidewalks
+- Equity-focused canopy design must be paired with anti-displacement policy awareness
+
+---
+
+## Final Report
+📄 **[Download the Final Independent Study PDF](ShaibaBanoSiddiqui_IndependentStudy_MSUD_2025.pdf)**
+
+---
+
+## Tools & Software
+- ArcGIS Pro
+- Rhino + Grasshopper
+- Outdoor+ (BlueCFD Core)
+- Google Earth imagery
+
+---
+
+## Acknowledgements
+Special thanks to **Patrick Kastner** for guidance on microclimate simulation workflows and
+research direction, and to **Rounaq Basu** for early conceptual guidance on equity and urban
+climate framing.
