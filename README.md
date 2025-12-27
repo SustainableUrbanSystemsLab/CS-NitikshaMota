@@ -1,4 +1,4 @@
-<img width="1013" height="459" alt="image" src="./GraphicalAbstract.png" />
+<img width="1013" height="459" alt="image" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-NitikshaMota/main/GraphicalAbstract.png" />
 
 # Climate-Migration Readiness in Atlanta  
 ## Missing-Middle Housing + Resilient Infrastructure Simulations  
