@@ -1,8 +1,9 @@
-<img width="1013" height="459" alt="image" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-NitikshaMota/main/GraphicalAbstract.png" />
+
 
 # Climate-Migration Readiness in Atlanta  
-## Missing-Middle Housing + Resilient Infrastructure Simulations  
-*(Revit + Autodesk Forma)*
+### Missing-Middle Housing + Resilient Infrastructure Simulations  
+
+<img width="1013" height="459" alt="image" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-NitikshaMota/main/GraphicalAbstract.png" />
 
 **Independent Study – M.S. Urban Design**  
 **Author:** Nitiksha Mota  - [LinkedIn](https://www.linkedin.com/in/nitiksha-mota/)
