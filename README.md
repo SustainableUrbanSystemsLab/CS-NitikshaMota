@@ -1,4 +1,4 @@
-<img width="1013" height="459" alt="image" src="https://github.com/user-attachments/assets/3759351c-7a18-4bc5-a5ac-012960fbcb3b" />
+<img width="1013" height="459" alt="image" src="./GraphicalAbstract.png" />
 
 # Climate-Migration Readiness in Atlanta  
 ## Missing-Middle Housing + Resilient Infrastructure Simulations  
