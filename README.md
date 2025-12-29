@@ -3,7 +3,7 @@
 # Climate-Migration Readiness in Atlanta  
 ### Missing-Middle Housing + Resilient Infrastructure Simulations  
 
-<img width="1013" height="459" alt="image" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-NitikshaMota/main/GraphicalAbstract.png" />
+<img width="100%" alt="Graphical Abstract" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-NitikshaMota/main/GraphicalAbstract.png" />
 
 **Independent Study – M.S. Urban Design**  
 **Author:** Nitiksha Mota  - [LinkedIn](https://www.linkedin.com/in/nitiksha-mota/)
@@ -130,7 +130,7 @@ Best practices:
 ## 7. Simulations Performed
 
 ### A. Sun Hours Analysis
-<img width="1281" height="425" alt="image" src="https://github.com/user-attachments/assets/07b20c77-d0d0-4515-be04-7ffd5c7ed367" />
+<img width="100%" alt="Sun Hours Analysis" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-NitikshaMota/main/images/sun-hours-analysis.png" />
 
 **Purpose:** Measure daylight tradeoffs caused by density.
 
@@ -152,7 +152,7 @@ Best practices:
 ---
 
 ### B. Microclimate / Heat Stress
-<img width="1274" height="420" alt="image" src="https://github.com/user-attachments/assets/85fd81ac-d35b-42ce-9bc6-76ecff93d060" />
+<img width="100%" alt="Microclimate Heat Stress" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-NitikshaMota/main/images/microclimate-heat-stress.png" />
 
 **Purpose:** Evaluate thermal comfort impacts of added density.
 
@@ -170,7 +170,7 @@ Best practices:
 ---
 
 ### C. Wind Comfort Analysis
-<img width="1283" height="423" alt="image" src="https://github.com/user-attachments/assets/9824d9f3-5445-433d-a01b-8c03c8fb20ab" />
+<img width="100%" alt="Wind Comfort Analysis" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-NitikshaMota/main/images/wind-comfort-analysis.png" />
 
 **Purpose:** Understand pedestrian-level comfort and ventilation.
 
@@ -188,7 +188,7 @@ Best practices:
 ---
 
 ### D. Solar Panel Potential
-<img width="1285" height="434" alt="image" src="https://github.com/user-attachments/assets/da5dde2b-5b41-446e-be50-0ce2eb9514af" />
+<img width="100%" alt="Solar Panel Potential" src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/CS-NitikshaMota/main/images/solar-panel-potential.png" />
 
 **Purpose:** Evaluate energy resilience benefits of added density.
 
@@ -287,5 +287,4 @@ If you are continuing this work:
 - Always compare **Existing vs Proposal**
 - Pair density increases with **required mitigation**
 - Use simulations to support **policy arguments**, not just visuals
-
 
